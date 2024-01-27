@@ -1,5 +1,5 @@
 return function()
-	local chalk = require(script.Parent.Parent)
+	local chalk = require("../init")
 
 	local function ansi16(code)
 		return string.format("%c[%dm", 27, code)

@@ -9,3 +9,9 @@ roblox.toml
 # Editor files
 .vscode/launch.json
 .idea
+
+**/sourcemap.json
+**/node_modules
+/build
+/roblox
+.yarn

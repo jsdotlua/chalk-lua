@@ -1,0 +1,11 @@
+{
+  "luau-lsp.require.mode": "relativeToFile",
+  "luau-lsp.types.roblox": true,
+  "luau-lsp.sourcemap.autogenerate": false,
+  "luau-lsp.sourcemap.enabled": false,
+  "luau-lsp.completion.imports.requireStyle": "alwaysRelative",
+  "luau-lsp.completion.imports.enabled": true,
+  "luau-lsp.require.directoryAliases": {
+    "@pkg": "node_modules/.luau-aliases"
+  }
+}
